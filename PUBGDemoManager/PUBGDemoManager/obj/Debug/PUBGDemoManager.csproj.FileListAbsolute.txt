@@ -1,0 +1,10 @@
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\bin\Debug\PUBGDemoManager.exe.config
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\bin\Debug\PUBGDemoManager.exe
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\bin\Debug\PUBGDemoManager.pdb
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.csprojResolveAssemblyReference.cache
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.Form1.resources
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.Properties.Resources.resources
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.csproj.GenerateResource.cache
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.csproj.CoreCompileInputs.cache
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.exe
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\PUBGDemoManager\PUBGDemoManager\obj\Debug\PUBGDemoManager.pdb

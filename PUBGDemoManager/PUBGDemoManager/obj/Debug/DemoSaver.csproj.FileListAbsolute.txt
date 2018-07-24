@@ -1,0 +1,10 @@
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\bin\Debug\DemoSaver.exe.config
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\bin\Debug\DemoSaver.exe
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\bin\Debug\DemoSaver.pdb
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.csprojResolveAssemblyReference.cache
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.Form1.resources
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.Properties.Resources.resources
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.csproj.GenerateResource.cache
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.csproj.CoreCompileInputs.cache
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.exe
+C:\Users\Spencer-PC\Desktop\Programming\DemoSaver\DemoSaver\DemoSaver\obj\Debug\DemoSaver.pdb
